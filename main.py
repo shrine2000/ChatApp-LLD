@@ -1,5 +1,5 @@
-from src.services import ChatServer
 from src.entities import User
+from src.services import ChatServer
 
 if __name__ == "__main__":
     server = ChatServer()

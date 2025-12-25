@@ -1,4 +1,4 @@
-from src.entities import Conversation, OneToOneConversation, GroupConversation
+from src.entities import Conversation, GroupConversation, OneToOneConversation
 
 
 class ConversationFactory:
