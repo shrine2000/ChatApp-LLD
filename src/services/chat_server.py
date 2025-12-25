@@ -1,6 +1,7 @@
-from .conversation_factory import ConversationFactory
-from src.repositories import MessageRepository
 from src.entities import Message
+from src.repositories import MessageRepository
+
+from .conversation_factory import ConversationFactory
 
 
 class ChatServer:

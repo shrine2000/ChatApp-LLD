@@ -1,4 +1,5 @@
 from abc import ABC, abstractmethod
+
 from .message import Message
 from .user import User
 
